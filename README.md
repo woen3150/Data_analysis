@@ -2,4 +2,4 @@
 
 <div align=center><h1>📖 Data Analysis List</h1></div>
 
-### 1. ['셀프 주유소가 셀프 주유소가 아닌 곳에 비해 저렴한가?'에 대한 분석](opinet_analysis/opinet-analysis.ipynb) - Opinet_analysis
+#### 1. ⛽ ['셀프 주유소가 셀프 주유소가 아닌 곳에 비해 저렴한가?'에 대한 분석](opinet_analysis/opinet-analysis.ipynb) - Opinet_analysis
