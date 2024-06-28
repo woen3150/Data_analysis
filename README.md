@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1565c0&height=230&section=header&text=Hello%20I'm%20Sujin&animation=twinkling&fontAlign=75&fontSize=50&fontColor=fefcfb)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0d1821&height=230&section=header&text=Hello%20I'm%20Sujin&animation=twinkling&fontAlign=75&fontSize=50&fontColor=fefcfb)
 
 ## Data_Analysis_List
 
